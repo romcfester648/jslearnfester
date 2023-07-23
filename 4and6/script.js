@@ -1,7 +1,7 @@
 let buben;
 console.log(typeof buben);
 buben = null; //то саме що і undefined
-buben = True; //boolean 1 або 0
+buben = true; //boolean 1 або 0
 buben = 'klsdfj' / 9 //Nan шось не робоче
 buben = 239875932875928375293857n; //bigint дуже велике число
 buben = '20'; //ну тут все зрозуміло
